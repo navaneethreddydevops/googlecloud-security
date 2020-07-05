@@ -14,10 +14,10 @@ Organization
                                         |                            |                      |
                                         |                            |                      |
                                         |__________                  |_________             |__________
-                                        |                            |                      |
+                                        |       Project-A            |      Project-A       |       Project-A
                                         |                            |                      |
                                         |__________                  |_________             |__________
-
+                                                Project-B                   Project-B               Project-B
 
 
 ```
