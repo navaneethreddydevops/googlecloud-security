@@ -45,11 +45,29 @@ Predefined Roles ------ These are Service Level Roles
 Custom Roles     ------ These are Custom Policies Developed By Customer
 ```
 
-# Preexisting Roles 
+# Pre-Existing Roles 
 
 ```
 Owner                 ---- Owner of the Project
 Editor                ---- Role with Permissions on Specific Service
 Viewer                ---- Read Only Role
 Billing Administartor ---- Billing Access
+```
+
+Service Account Roles
+```
+These are the IAM roles that Virtual Machines can communicate to Services of GCP
+```
+
+# Interacting with GCP 
+
+```
+
+Web Console
+
+Google cloud SDK   (gcloud,gsutil,bq)
+
+REST API
+
+
 ```
