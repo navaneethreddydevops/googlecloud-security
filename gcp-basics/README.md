@@ -21,3 +21,35 @@ Organization
 
 
 ```
+
+Each Project Have these Values:
+
+```
+Project ID         Unique          Immutable
+
+Project Name       Not-Unique      Mutable
+
+Project Number     Unique          Immutable
+
+```
+
+# IAM-ROLES
+
+3 Kind of Roles:
+
+```
+Primitive Roles ------- These are Wide Open Roles 
+
+Predefined Roles ------ These are Service Level Roles
+
+Custom Roles     ------ These are Custom Policies Developed By Customer
+```
+
+# Preexisting Roles 
+
+```
+Owner                 ---- Owner of the Project
+Editor                ---- Role with Permissions on Specific Service
+Viewer                ---- Read Only Role
+Billing Administartor ---- Billing Access
+```
