@@ -1,9 +1,12 @@
 # GCP Basics
 
-# Projects
+```
+Projects
     |
     |
     |____________
     |
     |
     |____________
+
+```
